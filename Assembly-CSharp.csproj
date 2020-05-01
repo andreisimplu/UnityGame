@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\Enemy Scripts\EnemyAnimator.cs" />
      <Compile Include="Assets\Scripts\Enemy Scripts\EnemyController.cs" />
      <Compile Include="Assets\Scripts\Helper\Tags.cs" />
+     <Compile Include="Assets\Scripts\Player\AttackScript.cs" />
      <Compile Include="Assets\Scripts\Player\MouseMovement.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerFootsteps.cs" />
