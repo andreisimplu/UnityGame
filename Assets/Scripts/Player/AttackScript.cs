@@ -14,7 +14,9 @@ public class AttackScript : MonoBehaviour
 
         if (hits.Length > 0)
         {
-            print("We touhed: " + hits[0].gameObject.tag);
+
+            //print("We touched: " + hits[0].gameObject.tag);
+            hits[0].gameObject.GetComponent<HealthScript>().ApplyDamage(damage);
 
             gameObject.SetActive(false);
         }

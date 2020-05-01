@@ -159,11 +159,13 @@ public class PlayerAttack : MonoBehaviour
     {
         RaycastHit hit;
 
-        if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward,out hit))
+        if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit))
         {
-
+            if (hit.transform.tag == Tags.ENEMY_TAG){
+                hit.transform.GetComponent<HealthScript>().ApplyDamage(damage);
+            }
         }
     }
 
 
-}
+}//class

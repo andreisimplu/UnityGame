@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Models",
+    "\\Assets\\Models\\Characters",
+    "\\Assets\\Models\\Characters\\Canibal",
+    "\\Assets\\Models\\Characters\\Canibal\\Cannibal Animations",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\Enemy Scripts",
+    "\\Assets\\Scripts\\Player"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\Player\\HealthScript.cs",
+  "PreviewInSolutionExplorer": false
+}
