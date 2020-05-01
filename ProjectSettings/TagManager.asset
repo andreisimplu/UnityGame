@@ -8,6 +8,7 @@ TagManager:
   - Crosshair
   - Look Root
   - FP Camera
+  - Arrow
   layers:
   - Default
   - TransparentFX
