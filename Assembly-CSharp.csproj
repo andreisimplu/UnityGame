@@ -68,6 +68,7 @@
      <Compile Include="Assets\Scripts\Player\PlayerFootsteps.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerSprintCrouch.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerStats.cs" />
      <Compile Include="Assets\Scripts\Weapons\ArrowBowScript.cs" />
      <Compile Include="Assets\Scripts\Weapons\WeaponHandler.cs" />
      <Compile Include="Assets\Scripts\Weapons\WeaponManager.cs" />
